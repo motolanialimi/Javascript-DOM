@@ -1,0 +1,34 @@
+.container{
+    background: blueviolet;
+    outline: .1px double black;
+    padding: 5%;
+}
+
+.jumbotron {
+    background-image: url("https://cdn.abcotvs.com/dip/images/1696913_01117ktrkmufonmapimg.jpg?w=630");
+    background-size: 100%;
+    background-repeat:no-repeat;
+    display: compact;
+    color:black;
+    
+}
+
+h2 {
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+ }
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.span6 {
+    float: left;
+    background-color: darkcyan;
+    margin : 0 auto;
+}
